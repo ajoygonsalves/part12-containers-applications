@@ -1,0 +1,11 @@
+Restored session: Sun Feb  9 20:02:27 CET 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Ajoys-MBP.home/Users/ajoyous/MEGA/Programming/part12-containers-applications/script-answers[0m[27m[24m[Jajoyous@Ajoys-MBP script-answers % [K[?2004h[7mdocker run -it ubuntu bash[27m[26D[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+[?2004h]0;root@b0a0a0608af8: /root@b0a0a0608af8:/# mkdir usr/src/app
+[?2004l[?2004h]0;root@b0a0a0608af8: /root@b0a0a0608af8:/# touch usr/src/app/index.js
+[?2004l[?2004h]0;root@b0a0a0608af8: /root@b0a0a0608af8:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Ajoys-MBP.home/Users/ajoyous/MEGA/Programming/part12-containers-applications/script-answers[0m[27m[24m[Jajoyous@Ajoys-MBP script-answers % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
