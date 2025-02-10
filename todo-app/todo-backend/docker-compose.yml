@@ -1,0 +1,9 @@
+services:
+  backend:
+    container_name: todo-backend
+    image: express-server
+    build: .
+    ports:
+      - 3000:3000
+    environment:
+      - DEBUG=todo-backend:*
